@@ -2,6 +2,16 @@
 
 SolarHub é um sistema desktop desenvolvido em C# (Windows Forms) com banco de dados Oracle, que simula a gestão de uma rede de energia solar residencial. O sistema permite ao usuário monitorar e controlar painéis solares, itens no grid de energia e o estado da bateria.
 
+## Grupo
+- Leonardo Viotti Bonini
+    - RM551716
+- Eduardo Araujo de Andrade Junior
+    - RM99758
+
+## Video Pitch Explicativo
+
+[Link do youtube](https://youtu.be/sOdKuZIk1hs)
+
 ## Funcionalidades
 
 - Login de usuário com autenticação no banco Oracle.
