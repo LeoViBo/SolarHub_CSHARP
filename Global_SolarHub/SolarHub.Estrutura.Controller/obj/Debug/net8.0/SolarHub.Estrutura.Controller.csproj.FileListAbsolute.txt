@@ -1,0 +1,17 @@
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\obj\Debug\net8.0\SolarHub.Estrutura.Controller.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\obj\Debug\net8.0\SolarHub.Estrutura.Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\obj\Debug\net8.0\SolarHub.Estrutura.Controller.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\obj\Debug\net8.0\SolarHub.Estrutura.Controller.AssemblyInfo.cs
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\obj\Debug\net8.0\SolarHub.Estrutura.Controller.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\bin\Debug\net8.0\SolarHub.Estrutura.Controller.deps.json
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\bin\Debug\net8.0\SolarHub.Estrutura.Controller.dll
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\bin\Debug\net8.0\SolarHub.Estrutura.Controller.pdb
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\bin\Debug\net8.0\SolarHub.Estrutura.Model.dll
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\bin\Debug\net8.0\SolarHub.Estrutura.Repository.dll
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\bin\Debug\net8.0\SolarHub.Estrutura.Model.pdb
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\bin\Debug\net8.0\SolarHub.Estrutura.Repository.pdb
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\obj\Debug\net8.0\SolarHub.9F206CF9.Up2Date
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\obj\Debug\net8.0\SolarHub.Estrutura.Controller.dll
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\obj\Debug\net8.0\refint\SolarHub.Estrutura.Controller.dll
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\obj\Debug\net8.0\SolarHub.Estrutura.Controller.pdb
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Controller\obj\Debug\net8.0\ref\SolarHub.Estrutura.Controller.dll

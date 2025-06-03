@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarHub.Estrutura.UI", "Global_SolarHub\SolarHub.Estrutura.UI.csproj", "{1867471B-9618-49BD-95E5-15F442995A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarHub.Estrutura.Repository", "SolarHub.Estrutura.Repository\SolarHub.Estrutura.Repository.csproj", "{9BA18DBB-2A6E-4AEF-B75F-008E2A83B962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarHub.Estrutura.Model", "SolarHub.Estrutura.Model\SolarHub.Estrutura.Model.csproj", "{EEE7074E-7EB5-4BD4-A419-063A52B73599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarHub.Estrutura.Controller", "SolarHub.Estrutura.Controller\SolarHub.Estrutura.Controller.csproj", "{5FFFC0BC-DA8F-4700-B7AC-9611FCF6E606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1867471B-9618-49BD-95E5-15F442995A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1867471B-9618-49BD-95E5-15F442995A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1867471B-9618-49BD-95E5-15F442995A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1867471B-9618-49BD-95E5-15F442995A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BA18DBB-2A6E-4AEF-B75F-008E2A83B962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA18DBB-2A6E-4AEF-B75F-008E2A83B962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA18DBB-2A6E-4AEF-B75F-008E2A83B962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA18DBB-2A6E-4AEF-B75F-008E2A83B962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE7074E-7EB5-4BD4-A419-063A52B73599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE7074E-7EB5-4BD4-A419-063A52B73599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE7074E-7EB5-4BD4-A419-063A52B73599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE7074E-7EB5-4BD4-A419-063A52B73599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFFC0BC-DA8F-4700-B7AC-9611FCF6E606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFFC0BC-DA8F-4700-B7AC-9611FCF6E606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFFC0BC-DA8F-4700-B7AC-9611FCF6E606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFFC0BC-DA8F-4700-B7AC-9611FCF6E606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C67543CA-DBA2-4667-BE3D-E60F1E94B65A}
+	EndGlobalSection
+EndGlobal

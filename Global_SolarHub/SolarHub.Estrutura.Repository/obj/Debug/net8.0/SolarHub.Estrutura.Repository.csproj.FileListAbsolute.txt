@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\obj\Debug\net8.0\SolarHub.Estrutura.Repository.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\obj\Debug\net8.0\SolarHub.Estrutura.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\obj\Debug\net8.0\SolarHub.Estrutura.Repository.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\obj\Debug\net8.0\SolarHub.Estrutura.Repository.AssemblyInfo.cs
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\obj\Debug\net8.0\SolarHub.Estrutura.Repository.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\bin\Debug\net8.0\SolarHub.Estrutura.Repository.deps.json
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\bin\Debug\net8.0\SolarHub.Estrutura.Repository.dll
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\bin\Debug\net8.0\SolarHub.Estrutura.Repository.pdb
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\bin\Debug\net8.0\SolarHub.Estrutura.Model.dll
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\bin\Debug\net8.0\SolarHub.Estrutura.Model.pdb
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\obj\Debug\net8.0\SolarHub.CCF2FED9.Up2Date
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\obj\Debug\net8.0\SolarHub.Estrutura.Repository.dll
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\obj\Debug\net8.0\refint\SolarHub.Estrutura.Repository.dll
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\obj\Debug\net8.0\SolarHub.Estrutura.Repository.pdb
+C:\Users\leona\source\repos\Global_SolarHub\SolarHub.Estrutura.Repository\obj\Debug\net8.0\ref\SolarHub.Estrutura.Repository.dll

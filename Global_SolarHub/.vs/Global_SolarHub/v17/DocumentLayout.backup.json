@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1867471B-9618-49BD-95E5-15F442995A49}|Global_SolarHub\\SolarHub.Estrutura.UI.csproj|c:\\users\\leona\\source\\repos\\global_solarhub\\global_solarhub\\solarhub - menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1867471B-9618-49BD-95E5-15F442995A49}|Global_SolarHub\\SolarHub.Estrutura.UI.csproj|solutionrelative:global_solarhub\\solarhub - menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFFC0BC-DA8F-4700-B7AC-9611FCF6E606}|SolarHub.Estrutura.Controller\\SolarHub.Estrutura.Controller.csproj|c:\\users\\leona\\source\\repos\\global_solarhub\\solarhub.estrutura.controller\\hubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFFC0BC-DA8F-4700-B7AC-9611FCF6E606}|SolarHub.Estrutura.Controller\\SolarHub.Estrutura.Controller.csproj|solutionrelative:solarhub.estrutura.controller\\hubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA18DBB-2A6E-4AEF-B75F-008E2A83B962}|SolarHub.Estrutura.Repository\\SolarHub.Estrutura.Repository.csproj|c:\\users\\leona\\source\\repos\\global_solarhub\\solarhub.estrutura.repository\\hubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA18DBB-2A6E-4AEF-B75F-008E2A83B962}|SolarHub.Estrutura.Repository\\SolarHub.Estrutura.Repository.csproj|solutionrelative:solarhub.estrutura.repository\\hubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA18DBB-2A6E-4AEF-B75F-008E2A83B962}|SolarHub.Estrutura.Repository\\SolarHub.Estrutura.Repository.csproj|c:\\users\\leona\\source\\repos\\global_solarhub\\solarhub.estrutura.repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA18DBB-2A6E-4AEF-B75F-008E2A83B962}|SolarHub.Estrutura.Repository\\SolarHub.Estrutura.Repository.csproj|solutionrelative:solarhub.estrutura.repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1867471B-9618-49BD-95E5-15F442995A49}|Global_SolarHub\\SolarHub.Estrutura.UI.csproj|c:\\users\\leona\\source\\repos\\global_solarhub\\global_solarhub\\solarhub - login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1867471B-9618-49BD-95E5-15F442995A49}|Global_SolarHub\\SolarHub.Estrutura.UI.csproj|solutionrelative:global_solarhub\\solarhub - login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1867471B-9618-49BD-95E5-15F442995A49}|Global_SolarHub\\SolarHub.Estrutura.UI.csproj|c:\\users\\leona\\source\\repos\\global_solarhub\\global_solarhub\\solarhub - menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1867471B-9618-49BD-95E5-15F442995A49}|Global_SolarHub\\SolarHub.Estrutura.UI.csproj|solutionrelative:global_solarhub\\solarhub - menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1867471B-9618-49BD-95E5-15F442995A49}|Global_SolarHub\\SolarHub.Estrutura.UI.csproj|c:\\users\\leona\\source\\repos\\global_solarhub\\global_solarhub\\solarhub - login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1867471B-9618-49BD-95E5-15F442995A49}|Global_SolarHub\\SolarHub.Estrutura.UI.csproj|solutionrelative:global_solarhub\\solarhub - login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 281,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\SolarHub.Estrutura.Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "SolarHub.Estrutura.Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\SolarHub.Estrutura.Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "SolarHub.Estrutura.Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:04:19.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SolarHub - Login.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\Global_SolarHub\\SolarHub - Login.cs",
+              "RelativeDocumentMoniker": "Global_SolarHub\\SolarHub - Login.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\Global_SolarHub\\SolarHub - Login.cs [Projeto]",
+              "RelativeToolTip": "Global_SolarHub\\SolarHub - Login.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:02:05.687Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\SolarHub.Estrutura.Repository\\HubRepository.cs",
+              "RelativeDocumentMoniker": "SolarHub.Estrutura.Repository\\HubRepository.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\SolarHub.Estrutura.Repository\\HubRepository.cs",
+              "RelativeToolTip": "SolarHub.Estrutura.Repository\\HubRepository.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAD4vycBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T03:47:55.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HubController.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\SolarHub.Estrutura.Controller\\HubController.cs",
+              "RelativeDocumentMoniker": "SolarHub.Estrutura.Controller\\HubController.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\SolarHub.Estrutura.Controller\\HubController.cs",
+              "RelativeToolTip": "SolarHub.Estrutura.Controller\\HubController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwEAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T03:48:04.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SolarHub - Menu.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\Global_SolarHub\\SolarHub - Menu.cs",
+              "RelativeDocumentMoniker": "Global_SolarHub\\SolarHub - Menu.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\Global_SolarHub\\SolarHub - Menu.cs",
+              "RelativeToolTip": "Global_SolarHub\\SolarHub - Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T18:35:41.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SolarHub - Menu.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\Global_SolarHub\\SolarHub - Menu.cs",
+              "RelativeDocumentMoniker": "Global_SolarHub\\SolarHub - Menu.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\Global_SolarHub\\SolarHub - Menu.cs [Projeto]",
+              "RelativeToolTip": "Global_SolarHub\\SolarHub - Menu.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:28:42.913Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SolarHub - Login.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\Global_SolarHub\\SolarHub - Login.cs",
+              "RelativeDocumentMoniker": "Global_SolarHub\\SolarHub - Login.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\Global_SolarHub\\Global_SolarHub\\SolarHub - Login.cs",
+              "RelativeToolTip": "Global_SolarHub\\SolarHub - Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:03:46.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
