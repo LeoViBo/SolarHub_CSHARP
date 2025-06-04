@@ -10,7 +10,7 @@ SolarHub é um sistema desktop desenvolvido em C# (Windows Forms) com banco de d
 
 ## Video Pitch Explicativo
 
-[Link do youtube]()
+[Link do youtube](https://www.youtube.com/watch?v=aneMxn0x4JQ)
 
 ## Funcionalidades
 
